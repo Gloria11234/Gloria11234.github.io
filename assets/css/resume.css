@@ -234,6 +234,8 @@ html, body { margin: 0; padding: 0; background: #E9EDF1; }
   color: var(--muted-lt);
   font-weight: 400;
 }
+/* Second title held at the same employer */
+.job-role--sub { margin-top: 6px; }
 
 .job ul { margin: 0; padding: 0; list-style: none; }
 .job li {

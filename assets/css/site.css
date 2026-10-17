@@ -539,6 +539,8 @@ a:hover > .arrow--down { transform: translateY(3px); }
 .role-card h3 { font: 600 22px/1.25 var(--serif); letter-spacing: -.01em; color: var(--navy-deep); }
 .role-title { margin-top: 4px; font: 600 15px/1.4 var(--sans); color: var(--accent); }
 .role-title span { color: var(--muted-lt); font-weight: 400; }
+/* Second title held at the same employer */
+.role-title--sub { margin-top: 20px; padding-top: 16px; border-top: 1px dashed #E3E7EC; }
 .role-card ul { margin: 14px 0 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .role-card li { position: relative; padding-left: 20px; color: #33475B; font-size: 15.5px; }
 .role-card li::before {
